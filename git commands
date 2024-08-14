@@ -1,0 +1,7 @@
+ git --version
+git init
+git config --global user.email 
+git clone repository path
+git add filename
+git commit -m"coments" filename
+git push origin-u branchname or main
